@@ -128,3 +128,46 @@ footer{
         padding: 15px;
     }
 }
+.conteiner2{
+    display: ruby-base-container;
+    margin-top: 0px;
+    background-color:rgb(217, 255, 0);
+    padding: 0px;
+    text-align: center;
+    margin: 1px;
+
+
+}
+.conteiner3{
+    display: ruby-base-container;
+    margin-top: 0px;
+    background-color:rgb(217, 255, 0);
+    padding: 4px;
+    text-align: center;
+    margin: 1px;
+
+}
+.conteiner4{
+    display: ruby-base-container;
+    margin-top: 0px;
+    background-color:rgb(217, 255, 0);
+    padding: 4px;
+    text-align: center;
+    margin: 1px;
+}
+.conteiner5{
+    display: ruby-base-container;
+    margin-top: 0px;
+    background-color:rgb(243, 227, 0);
+    padding: 4px;
+    text-align: center;
+    margin: 1px;
+}
+.conteiner6{
+    display: ruby-base-container;
+    margin-top: 0px;
+    background-color:rgb(243, 227, 0);
+    padding: 4px;
+    text-align: center;
+    margin: 1px;
+}
